@@ -5,7 +5,7 @@ For details, checkout our [publication](https://arxiv.org/pdf/2005.13143.pdf) in
 
 This library is an implementation of SDSEF in pytorch.
 
-SDSEF is being developed by [M. Asif Rana](mailto: asif1253@gmail.com).
+SDSEF is being developed by [Asif Rana](mailto:asif1253@gmail.com).
 
 Prerequisites
 ------
