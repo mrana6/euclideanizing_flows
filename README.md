@@ -5,7 +5,7 @@ For details, checkout our [publication](https://arxiv.org/pdf/2005.13143.pdf) in
 
 This library is an implementation of SDSEF in pytorch.
 
-SDSEF is being developed by [Asif Rana](mailto:asif1253@gmail.com).
+SDSEF is being developed by [Asif Rana](mailto:asif1253@gmail.com) and [Anqi Li](mailto:anqil4@cs.washington.edu).
 
 Prerequisites
 ------
@@ -22,7 +22,7 @@ Citing
 If you use SDSEF in an academic context, please cite the following publication:
 
 ```
-[1] 
+[1]
 @article{rana2020euclideanizing,
   title={Euclideanizing Flows: Diffeomorphic Reduction for Learning Stable Dynamical Systems},
   author={Rana, Muhammad Asif and Li, Anqi and Fox, Dieter and Boots, Byron and Ramos, Fabio and Ratliff, Nathan},
