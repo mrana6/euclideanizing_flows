@@ -34,7 +34,7 @@ If you use SDSEF in an academic context, please cite the following publication:
 Questions & Bug reporting
 -----
 
-Please use Github issue tracker to report bugs. For other questions please contact [Asif Rana](mailto:asif1253@gmail.com)
+Please use Github issue tracker to report bugs. For other questions, please contact [Asif Rana](mailto:asif1253@gmail.com) or [Anqi Li](mailto:anqil4@cs.washington.edu).
 
 License
 -----
